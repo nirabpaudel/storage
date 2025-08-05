@@ -1,0 +1,89 @@
+* {
+margin: 0;
+padding: 0;
+}
+body {
+background-color: #05232d;
+color: #fff;
+justify-content: center;
+text-align: center;
+}
+.tubgc{
+background-color: #050c12;
+color: #fff;
+margin: 0;
+padding: 0;
+height: 100%;
+width: 100%;
+}
+.tumpage{
+background-color: #050c12;
+margin: 0%;
+padding: 2.6%;
+justify-content: center;
+text-align: center;
+}
+.tulh{
+color: #fff;
+text-decoration: none;
+}
+.tulh:hover{
+text-decoration: underline;
+}
+.tubltpage{
+background-color: #05232d;
+padding-top: 1.8%;
+margin-bottom: 1.6%;
+margin-left: 12%;
+text-align: left;
+}
+.tubldes{
+text-align: left; 
+margin-left: 8%; 
+margin-right: 36%; 
+margin-top: 0.85%; 
+margin-bottom: 5%; 
+font-family: 'Libre Caslon Text', serif;
+font-size: 100%;
+color: #fff;
+}
+@media screen and (max-width: 1000px) { .tubldes { margin-left: 7%; margin-right: 26%; } } @media screen and (max-width: 800px) { .tubldes { margin-left: 5%; margin-right: 18%; } } @media screen and (max-width: 625px) { .tubldes { margin-left: 3%; margin-right: 8%; } }
+.btnl{ 
+background-color: #4169E1; 
+color: #fff; 
+padding: 5px; 
+border: none; 
+border-radius: 2rem; 
+text-decoration: none; 
+font-family: 'Patrick Hand', cursive; 
+display: inline-block; 
+font-size: 14px; 
+cursor: pointer; 
+transition: all 0.5s; 
+} 
+.btnl:hover{ 
+background-color: #6082B6; 
+-ms-transform: scale(1.03); 
+-webkit-transform: scale(1.03); 
+transform: scale(1.03); 
+}
+.btnr{ 
+background-color: #0F52BA; 
+color: #fff; 
+padding: 5px; 
+border: none; 
+border-radius: 2rem; 
+text-decoration: none; 
+font-family: 'Patrick Hand', cursive;  
+display: inline-block; 
+font-size: 14px; 
+cursor: pointer; 
+margin-left: 35%;
+transition: all 0.5s; 
+} 
+.btnr:hover{ 
+background-color: #4682B4; 
+-ms-transform: scale(1.03); 
+-webkit-transform: scale(1.03); 
+transform: scale(1.03); 
+}

@@ -1,0 +1,19 @@
+.bltpage{
+background-color: #e6e3da;
+margin-top: 1.8%;
+margin-bottom: 1.6%;
+margin-left: 12%;
+padding-top: 0.8%;
+padding-bottom: 0.6%;
+text-align: left;
+}
+.bldes{
+text-align: left; 
+margin-left: 8%; 
+margin-right: 35%; 
+margin-top: 0.85%; 
+margin-bottom: 5%; 
+font-family: 'EB Garamond', serif;
+font-size: 126%;
+}
+@media screen and (max-width: 1000px) { .bldes { margin-left: 7%; margin-right: 26%; } } @media screen and (max-width: 800px) { .bldes { margin-left: 5%; margin-right: 18%; } } @media screen and (max-width: 625px) { .bldes { margin-left: 3%; margin-right: 8%; } }
