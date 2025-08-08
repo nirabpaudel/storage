@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /img/essentials/ig-icon.png
+Disallow: /img/essentials/fb-icon.png
+Disallow: /img/essentials/yt-icon.png
+Disallow: /img/essentials/twitter-icon.png
+Disallow: /img/essentials/tiktok-icon.png
+Disallow: /img/essentials/github-icon.png
+Disallow: /img/essentials/in-icon.png
+Disallow: /img/essentials/ext.png
+Disallow: /img/essentials/ko-fi.webp
+Disallow: /img/nirab.jpg
+Disallow: /img/co/*
+Disallow: /img/essentials/spotify.png
+Disallow: /img/essentials/lastfm.png
